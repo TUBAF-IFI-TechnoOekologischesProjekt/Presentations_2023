@@ -81,5 +81,6 @@ Mit der Veranstaltung verdienen Sie sich 5 CP. Eine Hochrechnung mit der von der
 
 Planen Sie entsprechend Ihren Zeiteinsatz ...
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gantt_diagramm.svg/2560px-Gantt_diagramm.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gantt_diagramm.svg/2560px-Gantt_diagramm.svg.png "Gantt Diagramm [^wikimedia]")
 
+[^wikimedia]: Autor: Frank Murmann, 2011, https://commons.wikimedia.org/wiki/File:Gantt_diagramm.svg
