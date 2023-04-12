@@ -7,6 +7,7 @@ import cv2
 import os
 import numpy as np
 import time
+import shutil
 
 # define a function to check if a contour is a rectangle
 def is_contour_bad(c):
@@ -16,9 +17,12 @@ def is_contour_bad(c):
 	# the contour is 'bad' if it is a rectangle
 	return len(approx) == 4
 
-# new folder to store the images  
+# create new folder for images, delete old folder if it exists
 folder = 'insect_images'
-os.mkdir(folder)
+if os.path.exists(folder):
+    shutil.rmtree(folder)
+else:
+    os.mkdir(folder)
 
 # define a video capture object
 vid = cv2.VideoCapture(4)
@@ -54,6 +58,7 @@ while(True):
                 str(len(contours)), (10, 30), font, 1, 
                 (0, 255, 0), 2, cv2.LINE_AA)
     
+    # 
     cv2.imshow('result', img_result)
 
     # Store the resulting frame in case of change
