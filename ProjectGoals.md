@@ -2,7 +2,7 @@
 author:   Sebastian Zug, Conrad Jakisch, Maximilian Lau, Björn Sprungk, Christian Kupsch
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.2
+version:  0.0.3
 language: de
 narrator: Deutsch Female
 
