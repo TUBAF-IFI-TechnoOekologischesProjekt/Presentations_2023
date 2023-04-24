@@ -2,7 +2,7 @@
 author:   Sebastian Zug, Conrad Jakisch, Maximilian Lau, Björn Sprungk, Christian Kupsch
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.1
+version:  0.0.2
 language: de
 narrator: Deutsch Female
 
@@ -27,7 +27,7 @@ icon: https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_F
 + JProf. Dr. Christian Kupsch
 + Prof. Dr. Sebastian Zug
 
-# State of the discussion
+## State of the discussion
 
 > __Challenge: Demonstrate the positive impact of diversity-oriented landscape management (green strips, flowering meadows, etc.) on campus!__
 
