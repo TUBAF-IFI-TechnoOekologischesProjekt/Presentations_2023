@@ -27,9 +27,11 @@ icon: https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_F
 + JProf. Dr. Christian Kupsch
 + Prof. Dr. Sebastian Zug
 
-## State of the discussion
+## General Challenge
 
-> __Challenge: Demonstrate the positive impact of diversity-oriented landscape management (green strips, flowering meadows, etc.) on campus!__
+> __Demonstrate the positive impact of diversity-oriented landscape management (green strips, flowering meadows, etc.) on campus!__
+
+## State of the discussion
 
 > Let's summarize and structure the inputs of the last weeks.
 
