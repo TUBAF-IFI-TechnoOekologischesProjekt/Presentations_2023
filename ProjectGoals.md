@@ -59,7 +59,7 @@ icon: https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_TU_Bergakademie_F
 
 | Variant                                                                                           | Benefits | Disadvantages | Riscs |
 | ------------------------------------------------------------------------------------------------- | -------- | ------------- | ----- |
-| Application of an exiting open hardware / software project on geoecological questions in Freiberg |          |               |       |
+| Application of an existing open hardware / software project on geoecological questions in Freiberg |          |               |       |
 | Digitalization of a traditional trap (image recognition & classification)                         |          |               |       |
 | Development of a multi-modal sensory setup for covering a large bandwith of insects               |          |               |       |
 | ....                                                                                              |          |               |       |
